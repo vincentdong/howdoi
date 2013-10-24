@@ -7,7 +7,7 @@ howdoi - instant coding answers via the command line
 .. image:: https://pypip.in/d/howdoi/badge.png
         :target: https://crate.io/packages/howdoi
 
-cecececeAre you a hack programmer? Do you find yourself constantly Googling for
+Are you a hack programmer? Do you find yourself constantly Googling for
 how to do basic programing tasks?
 
 Suppose you want to know how to format a date in bash. Why open your
